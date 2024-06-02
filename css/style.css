@@ -1,0 +1,29 @@
+body{
+    background-color: #add8e6;
+}
+h3,h2{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+h4,h5{
+    color:green;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+    
+article p{
+    text-align: justify;
+word-wrap: normal;
+padding:3px;
+}
+footer{
+    background-color: #e9967a;
+
+    color:white;
+    
+    text-align: center;
+    padding:3px;
+
+
+}
